@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>IE 332 Group/title>
+  <style>
+    body {
+      font-family: "Helvetica Neue", Helvetica, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to SyncFiddle</h1>
+  <p>
+    Collaborate your HTML, CSS and JavaScript code with multiple users. Does this 		for everyone. 
+    <br>
+    You can share code online with instant real-time SyncFiddle code editor.
+  </p>
+  <p>
+    Push <strong>Run</strong> button to render HTML/CSS and execute script.
+  </p>
+  
+  <script>
+    // See the console window at bottom.
+    console.log('Hello World');
+  </script>
+</body>
+</html>
